@@ -44,7 +44,8 @@ export function main() {
             console.log(colors.fg.greenstrong, "\nBanco do Brazil com Z - O seu Futuro começa aqui!");
             sobre();
             console.log(colors.reset, "");
-            return (0);
+            process.exit(0);
+
         }
 
         switch (opcao) {
