@@ -1,8 +1,6 @@
 # TURMA JS11/2025 - Atividade Prática - Conta Bancária
 
-<https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md>
-
-[📄 Abrir atividade] <https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md>
+[📄 Abrir atividade] [https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md]
 
 # @julirmatos
 
