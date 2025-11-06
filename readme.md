@@ -2,6 +2,8 @@
 
 [📄 Abrir atividade] [https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md]
 
+[https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr03.md]
+
 # @julirmatos
 
 # @generationbr
