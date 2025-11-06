@@ -1,5 +1,5 @@
 import readlinesync = require("readline-sync");
-import { colors } from './src/util/Colors';
+import { colors } from './src/img/colors';
 
 export function main() {
 
@@ -36,7 +36,7 @@ export function main() {
                 "\nBanco do Brazil com Z - O seu Futuro começa aqui!");
             sobre();
             console.log(colors.reset, "");
-            process.exit(0);
+            return;
         }
 
         switch (opcao) {
