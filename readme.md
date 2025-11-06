@@ -1,8 +1,8 @@
 # TURMA JS11/2025 - Atividade Prática - Conta Bancária
 
-<https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md>
 
-[📄 Abrir atividade] <https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md>
+[📄 **Abrir atividade**](https://raw.githubusercontent.com/conteudoGeneration/cookbook_javascript/refs/heads/main/01_javascript/pr01.md)
+
 
 # @julirmatos
 
@@ -10,4 +10,4 @@
 
 ## Ferramentas Utilizadas
 
-[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,js,github,git,)](https://skillicons.dev)
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,ts,nodejs,npm,github,git,)](https://skillicons.dev)
