@@ -44,7 +44,7 @@ export function main() {
             console.log(colors.fg.greenstrong, "\nBanco do Brazil com Z - O seu Futuro começa aqui!");
             sobre();
             console.log(colors.reset, "");
-            process.exit(0);
+            return (0);
         }
 
         switch (opcao) {
@@ -101,7 +101,7 @@ export function main() {
 /* Função com os dados da pessoa desenvolvedora */
 function sobre(): void {
     console.log("\n*****************************************************");
-    console.log("Projeto Desenvolvido por: ");
+    console.log("Projeto Desenvolvido por: Juliana Matos ");
     console.log("Generation Brasil - generation@generation.org");
     console.log("github.com/conteudoGeneration");
     console.log("*****************************************************");
