@@ -1,6 +1,5 @@
 import readlinesync = require("readline-sync");
 import { colors } from './src/img/colors';
-import { Conta } from './src/model/Conta';
 import { ContaCorrente } from './src/model/ContaCorrente';
 import { ContaPoupanca } from './src/model/ContaPoupanca';
 
@@ -9,14 +8,6 @@ import { ContaPoupanca } from './src/model/ContaPoupanca';
 export function main() {
 
     let opcao: number;
-
-    // Objeto da Classe Conta (Teste)
-    const conta: Conta = new Conta(1, 123, 1, "Adriana", 10000);
-    conta.visualizar();
-    conta.sacar(10500);
-    conta.visualizar();
-    conta.depositar(5000);
-    conta.visualizar();
 
     // Objeto da Classe ContaCorrente (Teste)
     const contacorrente: ContaCorrente = new ContaCorrente(2, 123, 1, "Mariana", 15000, 1000);
@@ -39,7 +30,7 @@ export function main() {
         console.log(colors.bg.black, colors.fg.yellow,
             "*****************************************************");
         console.log("                                                     ");
-        console.log("                BANCO DO BRAZIL COM Z                ");
+        console.log("                    BANCO  JUJUZIL             ");
         console.log("                                                     ");
         console.log("*****************************************************");
         console.log("                                                     ");
@@ -60,7 +51,7 @@ export function main() {
         opcao = readlinesync.questionInt("");
 
         if (opcao == 9) {
-            console.log(colors.fg.greenstrong, "\nBanco do Brazil com Z - O seu Futuro começa aqui!");
+            console.log(colors.fg.greenstrong, "\nBanco Jujuzil - Sucesso começa aqui!");
             sobre();
             console.log(colors.reset, "");
             process.exit(0);
