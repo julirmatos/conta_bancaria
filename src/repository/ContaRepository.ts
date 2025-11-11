@@ -1,4 +1,4 @@
-import { Conta } from "../src/model/Conta";
+import { Conta } from "../model/Conta";
 
 export interface ContaRepository {
 
