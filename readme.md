@@ -19,4 +19,4 @@
 
 ## Ferramentas Utilizadas
 
-[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,js,github,git,)](https://skillicons.dev)
+[![Tecnologias e Ferramentas utilizadas:](https://skillicons.dev/icons?i=vscode,js,nodejs,typescript,github,git,)](https://skillicons.dev)
